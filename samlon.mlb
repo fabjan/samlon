@@ -1,0 +1,8 @@
+local
+  $(SML_LIB)/basis/basis.mlb
+in
+  src/token.sml
+  src/scanner.sml
+  src/samlon.sml
+  src/main.sml
+end
