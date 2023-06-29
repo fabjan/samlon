@@ -1,7 +1,7 @@
 structure Token =
 struct
 
-  datatype token =
+  datatype t =
 
   (* Single-character tokens. *)
     LEFT_PAREN
